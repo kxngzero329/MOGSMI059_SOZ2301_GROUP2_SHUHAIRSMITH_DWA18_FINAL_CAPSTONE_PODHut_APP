@@ -158,4 +158,4 @@ To run the project locally, follow these steps:
 
 ## Deployment
 
-This app was deployed using Netlify url:https://spectacular-dieffenbachia-b983bd.netlify.app/
+This app was deployed using Netlify url:  https://pod-hut-kxngzero.netlify.app/
